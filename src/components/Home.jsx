@@ -44,7 +44,7 @@ const Home = () => {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#section2">
-                  Section 2
+                  Section 22
                 </a>
               </li>
               <li className="nav-item">
